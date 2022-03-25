@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Project Description](#project-description)
 * [User Story](#user-story)
-* [Link](#link)
+* [Screenshot](#screenshot)
 
 
 ## Project Description
@@ -17,6 +17,6 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
-## Link
+## Screenshot
 
-https://raniahj.github.io/React-Portfolio/
+<img alt= "react page" src="https://github.com/raniahj/Weather-Dashboard-Challenge/blob/main/Weather%20Dashboard.png" >
