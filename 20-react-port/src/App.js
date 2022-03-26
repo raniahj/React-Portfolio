@@ -4,6 +4,7 @@ import Nav from "./components/Nav";
 import Contact from './components/Contact';
 import About from './components/About';
 import './App.css';
+import Portfolio from './components/Portfolio';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Nav></Nav>
       <main>
         <About></About>
+        <Portfolio></Portfolio>
         <Contact></Contact>
       </main>
     </div>
