@@ -19,4 +19,4 @@ SO THAT I can assess whether they're a good candidate for an open position
 ```
 ## Screenshot
 
-<img alt= "react page" src="https://github.com/raniahj/Weather-Dashboard-Challenge/blob/main/Weather%20Dashboard.png" >
+<img alt= "react page" src="https://github.com/raniahj/React-Portfolio/blob/main/React%20Page.png" >
